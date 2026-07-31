@@ -17,7 +17,7 @@ system partition is not modified.
 
 ## Installation
 
-1. Download `rocknix-firefox-clean-installer-v5.tar.gz`.
+1. Download `rocknix-firefox-clean-installer-v6.tar.gz`.
 2. Using SMB/SFTP, copy it to:
 
    ```text
@@ -28,7 +28,7 @@ system partition is not modified.
 
    ```sh
    cd /storage/roms/_installers/firefox
-   tar -xzf rocknix-firefox-clean-installer-v5.tar.gz
+   tar -xzf rocknix-firefox-clean-installer-v6.tar.gz
    chmod +x *.sh
    ./install.sh
    ```
@@ -53,7 +53,7 @@ Firefox can also be launched over SSH:
 | Right stick | Mouse pointer |
 | A or R2 | Left-click |
 | L2 | Right-click |
-| B | Escape / close menu |
+| B | Back |
 | X | Reload page |
 | Y | Show/hide onscreen keyboard |
 | D-pad | Arrow keys |
@@ -61,7 +61,7 @@ Firefox can also be launched over SSH:
 | Left stick up/down | Page up/down |
 | Start | Enter |
 | Select | Tab |
-| L1 + Select + Start | Exit Firefox |
+| Home / Guide | Exit Firefox |
 
 To type, select a text field and press **Y**. Press **Y** again to hide the
 keyboard.
