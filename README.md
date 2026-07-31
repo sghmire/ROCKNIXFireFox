@@ -1,6 +1,6 @@
 # Firefox for ROCKNIX
 
-Run Mozilla's official Linux ARM64 Firefox build on the Retroid Pocket Flip 2
+Mozilla's official Linux ARM64 Firefox build on the Retroid Pocket Flip 2
 with touchscreen support, controller-based mouse controls, and a Wayland
 onscreen keyboard. Everything installs under `/storage`; the immutable ROCKNIX
 system partition is not modified.
