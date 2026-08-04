@@ -17,7 +17,7 @@ system partition is not modified.
 
 ## Installation
 
-1. Download `rocknix-firefox-clean-installer-v6.tar.gz`.
+1. Download `Firefox.v6` from the release tab.
 2. Using SMB/SFTP, copy it to:
 
    ```text
